@@ -41,6 +41,7 @@ Alexa skill to help archers train for the 1-on-1 Olympic elimination rounds.
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+  * [Product Requirements Document](https://github.com/jinwkim/archery-olympic-round/blob/master/product-requirements-document.md)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
