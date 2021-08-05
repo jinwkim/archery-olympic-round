@@ -1,26 +1,30 @@
 {
-    "name": "skill-sample-nodejs-highlowgame",
-    "version": "2.6.0",
-    "description": "High-low number guessing game for Alexa (i18n)",
+    "name": "archery-skill",
+    "version": "1.0.0",
+    "description": "Alexa skill for archery training",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/alexa/skill-sample-nodejs-highlowgame.git"
+      "url": "git+https://github.com/jinwkim/archery-olympic-round"
     },
     "keywords": [
       "Alexa",
       "game",
+      "archery",
+      "competition",
+      "elimination",
+      "olympics",
       "skill"
     ],
     "author": "Amazon.com",
     "license": "Amazon Software License",
     "bugs": {
-      "url": "https://github.com/alexa/skill-sample-nodejs-highlowgame/issues"
+      "url": "https://github.com/jinwkim/archery-olympic-round/issues"
     },
-    "homepage": "https://github.com/alexa/skill-sample-nodejs-highlowgame#readme",
+    "homepage": "https://github.com/jinwkim/archery-olympic-round#readme",
     "dependencies": {
       "ask-sdk": "^2.6.0",
       "aws-sdk": "2.637.0",
